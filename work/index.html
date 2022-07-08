@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta name="generator" content="Hugo 0.101.0" />
-    <title>Rishabh Anand</title>
+    <title>Work</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="https://thefenrislycaon.github.io/assets/css/main.css"/>
-    <link rel="canonical" href="https://thefenrislycaon.github.io/">
+    <link rel="canonical" href="https://thefenrislycaon.github.io/work/">
     <noscript><link rel="stylesheet" href="https://thefenrislycaon.github.io/assets/css/noscript.css"/></noscript>
     <style>
-        :root{--site-background : url("https://thefenrislycaon.github.io/images/BG.jpg")};
+        :root{--site-background : url("https://thefenrislycaon.github.io/images/bg.jpg")};
     </style> 
     
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -26,16 +25,16 @@
                     <div class="logo">
                         <a href="/">
                             <span class="icon">
-                                <img src="/images/logo.png">
+                                <img src="">
                             </span>
                         </a>
                     </div>
                     <div class="content">
                         <div class="inner">
-                            <h1>Rishabh Anand</h1>
+                            <h1>Work</h1>
                             
                             <p>
-                                Programmer | Writer | Musician | Photographer
+                                Work background
                             </p>
                             
                         </div>
@@ -45,25 +44,9 @@
                             
                                 
                                     
-                                        <li><a href="https://thefenrislycaon.github.io/musical/">Music</a></li>
-                                    
-                                
-                            
-                                
-                                    
-                                        <li><a href="https://thefenrislycaon.github.io/note/">notes</a></li>
-                                    
-                                
-                            
-                                
-                                    
-                                        <li><a href="https://thefenrislycaon.github.io/photo/">Photos</a></li>
-                                    
-                                
-                            
-                                
-                                    
-                                        <li><a href="https://thefenrislycaon.github.io/work/">Work</a></li>
+                                        <li>
+                                            <a href="#sentiment-analysis">Sentiment-Analysis</a>
+                                        </li>
                                     
                                 
                             
@@ -77,17 +60,32 @@
                     
                         
                             
-                        
-                    
-                        
-                            
-                        
-                    
-                        
-                            
-                        
-                    
-                        
+                                <article id="sentiment-analysis">
+                                    <h2 class="major">Sentiment-Analysis</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <h2 id="introduction">Introduction</h2>
+<p>This project aims to classify the emotion on a person&rsquo;s face into one of <strong>seven categories</strong>, using deep convolutional neural networks. The model is trained on the <strong>FER-2013</strong> dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with <strong>seven emotions</strong> - angry, disgusted, fearful, happy, neutral, sad and surprised.</p>
+<h2 id="working">Working</h2>
+<ul>
+<li>This implementation by default detects emotions on all faces in the webcam feed. With a simple 4-layer CNN, the test accuracy reached 63.2% in 50 epochs.</li>
+</ul>
+<p><a href="static/plot.png">Accuracy plot</a></p>
+<ul>
+<li>
+<p>First, the <code>.xml</code> file is used to detect faces in each frame of the webcam feed.</p>
+</li>
+<li>
+<p>The region of image containing the face is resized to <strong>48x48</strong> and is passed as input to the CNN.</p>
+</li>
+<li>
+<p>The network outputs a list of <strong>softmax scores</strong> for the seven classes of emotions.</p>
+</li>
+<li>
+<p>The emotion with maximum score is displayed on the screen.</p>
+</li>
+</ul>
+
+                                </article>
                             
                         
                     

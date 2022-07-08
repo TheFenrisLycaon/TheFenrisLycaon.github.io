@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Rishabh Anand</title>
+    <link>https://thefenrislycaon.github.io/work/</link>
+    <description>Recent content in Work on Rishabh Anand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:45:55 +0530</lastBuildDate><atom:link href="https://thefenrislycaon.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment-Analysis</title>
+      <link>https://thefenrislycaon.github.io/work/sentiment-analysis/</link>
+      <pubDate>Thu, 07 Jul 2022 12:45:55 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/sentiment-analysis/</guid>
+      <description>Introduction This project aims to classify the emotion on a person&amp;rsquo;s face into one of seven categories, using deep convolutional neural networks. The model is trained on the FER-2013 dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
+Working This implementation by default detects emotions on all faces in the webcam feed.</description>
+    </item>
+    
+  </channel>
+</rss>
