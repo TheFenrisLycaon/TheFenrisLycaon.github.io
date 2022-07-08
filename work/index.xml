@@ -8,13 +8,77 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jul 2022 12:45:55 +0530</lastBuildDate><atom:link href="https://thefenrislycaon.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sentiment-Analysis</title>
-      <link>https://thefenrislycaon.github.io/work/sentiment-analysis/</link>
-      <pubDate>Thu, 07 Jul 2022 12:45:55 +0530</pubDate>
+      <title>AST</title>
+      <link>https://thefenrislycaon.github.io/work/ast/</link>
+      <pubDate>Fri, 08 Jul 2022 19:02:40 +0530</pubDate>
       
-      <guid>https://thefenrislycaon.github.io/work/sentiment-analysis/</guid>
-      <description>Introduction This project aims to classify the emotion on a person&amp;rsquo;s face into one of seven categories, using deep convolutional neural networks. The model is trained on the FER-2013 dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
-Working This implementation by default detects emotions on all faces in the webcam feed.</description>
+      <guid>https://thefenrislycaon.github.io/work/ast/</guid>
+      <description>AST Guardian A project I worked on while interning at Arima Labs as a Python Developer. This project works with the following :
+Vehicle entry and exit detection (open-CV/open-VINO) Number plate text extraction (OCR) Video hosting/masking (Flask/ngrok) Sending live link to client (FAST2SMS) Link </description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://thefenrislycaon.github.io/work/games/</link>
+      <pubDate>Fri, 08 Jul 2022 19:02:08 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/games/</guid>
+      <description>Various games that I built while learning python:
+Basic Black Jack Chess Dice Drawing HangMan MusicalFace Snake Sudoku with a solver using BAcktracking algorithm. Tetris Wind down and relax !
+Link </description>
+    </item>
+    
+    <item>
+      <title>PiFUxZ</title>
+      <link>https://thefenrislycaon.github.io/work/pifuxz/</link>
+      <pubDate>Fri, 08 Jul 2022 19:00:48 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/pifuxz/</guid>
+      <description>Textured - 3D model generation using a single 2D image. I built this while I was interning over at vInnovate Technologies as a Computer Vision Expert. Exisiting projects from Facebook like PiFu is able to generate 3D models with one image and PiFuHD is able to generate textured models using multiple images. PiFuxZ is best of both worlds.
+Link </description>
+    </item>
+    
+    <item>
+      <title>Leddit</title>
+      <link>https://thefenrislycaon.github.io/work/leddit/</link>
+      <pubDate>Fri, 08 Jul 2022 19:00:20 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/leddit/</guid>
+      <description>Reddit clone using Typescript and React
+I built this when I was learning ReactJS. I usd typescript because it&amp;rsquo;s JavaScript but better. I also used other technologies like,
+GraphQL URQL/Apollo Node.js PostgreSQL MikroORM/TypeORM Redis Next.js TypeGraphQL Link </description>
+    </item>
+    
+    <item>
+      <title>xZphish</title>
+      <link>https://thefenrislycaon.github.io/work/xzphish/</link>
+      <pubDate>Fri, 08 Jul 2022 18:41:00 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/xzphish/</guid>
+      <description>Phishing library written in shell. I built this while I was learning CyberSecurity through IBM.
+Features Latest and updated login pages. Mask URL support Beginners friendly Multiple tunneling options Localhost Ngrok (With or without hotspot) Link </description>
+    </item>
+    
+    <item>
+      <title>Social-Bot</title>
+      <link>https://thefenrislycaon.github.io/work/instagram/</link>
+      <pubDate>Fri, 08 Jul 2022 18:40:45 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/instagram/</guid>
+      <description>All in one social media bot for people who are on social media but are too lazy to open and surf it. We usually call them INTROVERTS !
+Support for Multiple sites !
+Instagram Twitter Facebook Reddit StackOverFlow Youtube Link </description>
+    </item>
+    
+    <item>
+      <title>Flappy Bird</title>
+      <link>https://thefenrislycaon.github.io/work/flappy-bird/</link>
+      <pubDate>Fri, 08 Jul 2022 18:09:46 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/flappy-bird/</guid>
+      <description>Flappy_Bird Game made on Tkinter and PyGame (Two versions).
+The game was then automated using NEAT(Neuroevolution of Augmenting Topologies) algorithm.
+Link </description>
     </item>
     
   </channel>

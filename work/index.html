@@ -8,7 +8,7 @@
     <link rel="canonical" href="https://thefenrislycaon.github.io/work/">
     <noscript><link rel="stylesheet" href="https://thefenrislycaon.github.io/assets/css/noscript.css"/></noscript>
     <style>
-        :root{--site-background : url("https://thefenrislycaon.github.io/images/bg.jpg")};
+        :root{--site-background : url("https://thefenrislycaon.github.io/images/BG.png")};
     </style> 
     
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -45,7 +45,55 @@
                                 
                                     
                                         <li>
-                                            <a href="#sentiment-analysis">Sentiment-Analysis</a>
+                                            <a href="#flappy-bird">Flappy Bird</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#social-bot">Social-Bot</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#xzphish">xZphish</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#leddit">Leddit</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#pifuxz">PiFUxZ</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#games">Games</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#ast">AST</a>
                                         </li>
                                     
                                 
@@ -60,30 +108,133 @@
                     
                         
                             
-                                <article id="sentiment-analysis">
-                                    <h2 class="major">Sentiment-Analysis</h2>
+                                <article id="ast">
+                                    <h2 class="major">AST</h2>
                                     <span class="image main"><img src="" alt="" /></span>
-                                    <h2 id="introduction">Introduction</h2>
-<p>This project aims to classify the emotion on a person&rsquo;s face into one of <strong>seven categories</strong>, using deep convolutional neural networks. The model is trained on the <strong>FER-2013</strong> dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with <strong>seven emotions</strong> - angry, disgusted, fearful, happy, neutral, sad and surprised.</p>
-<h2 id="working">Working</h2>
+                                    <h2 id="ast-guardian">AST Guardian</h2>
+<p>A project I worked on while interning at <a href="https://arimalabs.in/"><code>Arima Labs</code></a> as a Python Developer. This project works with the following :</p>
 <ul>
-<li>This implementation by default detects emotions on all faces in the webcam feed. With a simple 4-layer CNN, the test accuracy reached 63.2% in 50 epochs.</li>
+<li>Vehicle entry and exit detection (open-CV/open-VINO)</li>
+<li>Number plate text extraction (OCR)</li>
+<li>Video hosting/masking (Flask/ngrok)</li>
+<li>Sending live link to client (FAST2SMS)</li>
 </ul>
-<p><a href="static/plot.png">Accuracy plot</a></p>
+<h2 id="linkhttpsgithubcomthefenrislycaonast"><a href="https://github.com/TheFenrisLycaon/AST">Link</a></h2>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="games">
+                                    <h2 class="major">Games</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <p>Various games that I built while learning python:</p>
 <ul>
-<li>
-<p>First, the <code>.xml</code> file is used to detect faces in each frame of the webcam feed.</p>
-</li>
-<li>
-<p>The region of image containing the face is resized to <strong>48x48</strong> and is passed as input to the CNN.</p>
-</li>
-<li>
-<p>The network outputs a list of <strong>softmax scores</strong> for the seven classes of emotions.</p>
-</li>
-<li>
-<p>The emotion with maximum score is displayed on the screen.</p>
-</li>
+<li>Basic</li>
+<li>Black Jack</li>
+<li>Chess</li>
+<li>Dice</li>
+<li>Drawing</li>
+<li>HangMan</li>
+<li>MusicalFace</li>
+<li>Snake</li>
+<li>Sudoku with a solver using BAcktracking algorithm.</li>
+<li>Tetris</li>
 </ul>
+<p>Wind down and relax !</p>
+<h2 id="linkhttpsgithubcomthefenrislycaongame"><a href="https://github.com/TheFenrisLycaon/Game">Link</a></h2>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="pifuxz">
+                                    <h2 class="major">PiFUxZ</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <p>Textured - 3D model generation using a single 2D image. I built this while I was interning over at <a href="https://vinnovatetechnologies.com/"><code>vInnovate Technologies</code></a> as a Computer Vision Expert. Exisiting projects from Facebook like PiFu is able to generate 3D models with one image and PiFuHD is able to generate textured models using multiple images. PiFuxZ is best of both worlds.</p>
+<h2 id="linkhttpsgithubcomthefenrislycaonpifuxz"><a href="https://github.com/TheFenrisLycaon/PIfuxZ">Link</a></h2>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="leddit">
+                                    <h2 class="major">Leddit</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <p>Reddit clone using Typescript and React</p>
+<p>I built this when I was learning ReactJS. I usd typescript because it&rsquo;s JavaScript but better. I also used other technologies like,</p>
+<ul>
+<li>GraphQL</li>
+<li>URQL/Apollo</li>
+<li>Node.js</li>
+<li>PostgreSQL</li>
+<li>MikroORM/TypeORM</li>
+<li>Redis</li>
+<li>Next.js</li>
+<li>TypeGraphQL</li>
+</ul>
+<h2 id="linkhttpsgithubcomthefenrislycaonleddit"><a href="https://github.com/TheFenrisLycaon/Leddit">Link</a></h2>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="xzphish">
+                                    <h2 class="major">xZphish</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <p>Phishing library written in shell. I built this while I was learning CyberSecurity through IBM.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li>Latest and updated login pages.</li>
+<li>Mask URL support</li>
+<li>Beginners friendly</li>
+<li>Multiple tunneling options</li>
+<li>Localhost</li>
+<li>Ngrok (With or without hotspot)</li>
+</ul>
+<h2 id="linkhttpsgithubcomthefenrislycaonxzphish"><a href="https://github.com/TheFenrisLycaon/xZphish">Link</a></h2>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="social-bot">
+                                    <h2 class="major">Social-Bot</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <p>All in one social media bot for people who are on social media but are too lazy to open and surf it. We usually call them <code>INTROVERTS</code> !</p>
+<p>Support for Multiple sites !</p>
+<ul>
+<li>Instagram</li>
+<li>Twitter</li>
+<li>Facebook</li>
+<li>Reddit</li>
+<li>StackOverFlow</li>
+<li>Youtube</li>
+</ul>
+<h2 id="linkhttpsgithubcomthefenrislycaonsocial-bot"><a href="https://github.com/TheFenrisLycaon/Social-Bot">Link</a></h2>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="flappy-bird">
+                                    <h2 class="major">Flappy Bird</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <p>Flappy_Bird Game made on Tkinter and PyGame (Two versions).</p>
+<p>The game was then automated using NEAT(Neuroevolution of Augmenting Topologies) algorithm.</p>
+<h2 id="linkhttpsgithubcomthefenrislycaonflappybird"><a href="https://github.com/TheFenrisLycaon/FlappyBird">Link</a></h2>
 
                                 </article>
                             
@@ -94,7 +245,7 @@
 
                 
 <footer id="footer">
-    <p class="copyright">&copy; Design: <a href="https://github.com/d-asnaghi">d-asnaghi</a> and <a href="https://html5up.net">HTML5 UP</a>.</p>
+    <p class="copyright">Design: <a href="https://github.com/TheFenrisLycaon">TheFenrisLycaon</a>.</p>
 </footer>
 
         </div>

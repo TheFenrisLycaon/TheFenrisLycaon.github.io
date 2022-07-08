@@ -8,40 +8,144 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jul 2022 12:45:55 +0530</lastBuildDate><atom:link href="https://thefenrislycaon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
+      <title>BalckBoard Auto-Logger</title>
+      <link>https://thefenrislycaon.github.io/project/balckboard-auto/</link>
+      <pubDate>Fri, 08 Jul 2022 19:03:15 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/balckboard-auto/</guid>
+      <description>Intro A python based application that automatically logs in into your accounts and attends your classes on cuchd.blackboard.com website. I wrote this script STRICTLY for EDUCATIONAL PURPOSES and I am NOT RESPONSIBLE for any non-disciplinary action commited by its users, i.e., all the students of Chandigarh University (yes, ALL, not just CSE or AIT !)
+Usage So you&amp;rsquo;re done with the installation. But, how do you use it? It&amp;rsquo;s really simple actually, you run the same runME.</description>
+    </item>
+    
+    <item>
+      <title>AST</title>
+      <link>https://thefenrislycaon.github.io/work/ast/</link>
+      <pubDate>Fri, 08 Jul 2022 19:02:40 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/ast/</guid>
+      <description>AST Guardian A project I worked on while interning at Arima Labs as a Python Developer. This project works with the following :
+Vehicle entry and exit detection (open-CV/open-VINO) Number plate text extraction (OCR) Video hosting/masking (Flask/ngrok) Sending live link to client (FAST2SMS) Link </description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://thefenrislycaon.github.io/work/games/</link>
+      <pubDate>Fri, 08 Jul 2022 19:02:08 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/games/</guid>
+      <description>Various games that I built while learning python:
+Basic Black Jack Chess Dice Drawing HangMan MusicalFace Snake Sudoku with a solver using BAcktracking algorithm. Tetris Wind down and relax !
+Link </description>
+    </item>
+    
+    <item>
+      <title>PiFUxZ</title>
+      <link>https://thefenrislycaon.github.io/work/pifuxz/</link>
+      <pubDate>Fri, 08 Jul 2022 19:00:48 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/pifuxz/</guid>
+      <description>Textured - 3D model generation using a single 2D image. I built this while I was interning over at vInnovate Technologies as a Computer Vision Expert. Exisiting projects from Facebook like PiFu is able to generate 3D models with one image and PiFuHD is able to generate textured models using multiple images. PiFuxZ is best of both worlds.
+Link </description>
+    </item>
+    
+    <item>
+      <title>Leddit</title>
+      <link>https://thefenrislycaon.github.io/work/leddit/</link>
+      <pubDate>Fri, 08 Jul 2022 19:00:20 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/leddit/</guid>
+      <description>Reddit clone using Typescript and React
+I built this when I was learning ReactJS. I usd typescript because it&amp;rsquo;s JavaScript but better. I also used other technologies like,
+GraphQL URQL/Apollo Node.js PostgreSQL MikroORM/TypeORM Redis Next.js TypeGraphQL Link </description>
+    </item>
+    
+    <item>
+      <title>AfterShock Predictions</title>
+      <link>https://thefenrislycaon.github.io/project/aftershock/</link>
+      <pubDate>Fri, 08 Jul 2022 18:55:39 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/aftershock/</guid>
+      <description>AfterShock Analysis of the 2018 article &amp;lsquo;Deep learning of aftershock patterns following large earthquakes&amp;rsquo; by Phoebe M. R. DeVries, Fernanda Viégas, Martin Wattenberg &amp;amp; Brendan J. Meade, published in Nature.
+Intro In a world, divided by fear, of losing your loved ones, of losing your loved belongings,of losing your life, we hope to come up with a solution that keep you and your dreams safe. Because that’s what EarthQuake’s take away&amp;hellip; Even after the major tremor, what hurts more is the AfterShocks that follow.</description>
+    </item>
+    
+    <item>
+      <title>Federated Learning with IoT</title>
+      <link>https://thefenrislycaon.github.io/project/federated-learning/</link>
+      <pubDate>Fri, 08 Jul 2022 18:53:40 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/federated-learning/</guid>
+      <description>Federated Learning On Distributed Private Health Data On Smartphones The smartphones of the people probably carry the most valueable but also private data. Since using data promisses to be one of the best ways to fight back against COVID-19, it is highly desirable to get access.
+By using a Federated Learning approach with PySyft it is possible to learn from the private data right on the smartphone, with the data never leaving the device.</description>
+    </item>
+    
+    <item>
+      <title>xZphish</title>
+      <link>https://thefenrislycaon.github.io/work/xzphish/</link>
+      <pubDate>Fri, 08 Jul 2022 18:41:00 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/xzphish/</guid>
+      <description>Phishing library written in shell. I built this while I was learning CyberSecurity through IBM.
+Features Latest and updated login pages. Mask URL support Beginners friendly Multiple tunneling options Localhost Ngrok (With or without hotspot) Link </description>
+    </item>
+    
+    <item>
+      <title>Social-Bot</title>
+      <link>https://thefenrislycaon.github.io/work/instagram/</link>
+      <pubDate>Fri, 08 Jul 2022 18:40:45 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/instagram/</guid>
+      <description>All in one social media bot for people who are on social media but are too lazy to open and surf it. We usually call them INTROVERTS !
+Support for Multiple sites !
+Instagram Twitter Facebook Reddit StackOverFlow Youtube Link </description>
+    </item>
+    
+    <item>
+      <title>Flappy Bird</title>
+      <link>https://thefenrislycaon.github.io/work/flappy-bird/</link>
+      <pubDate>Fri, 08 Jul 2022 18:09:46 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/work/flappy-bird/</guid>
+      <description>Flappy_Bird Game made on Tkinter and PyGame (Two versions).
+The game was then automated using NEAT(Neuroevolution of Augmenting Topologies) algorithm.
+Link </description>
+    </item>
+    
+    <item>
+      <title>Will Add Music</title>
       <link>https://thefenrislycaon.github.io/musical/test/</link>
       <pubDate>Thu, 07 Jul 2022 12:49:19 +0530</pubDate>
       
       <guid>https://thefenrislycaon.github.io/musical/test/</guid>
-      <description>ascans</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Test</title>
+      <title>Will Add Photos</title>
       <link>https://thefenrislycaon.github.io/photo/test/</link>
       <pubDate>Thu, 07 Jul 2022 12:46:02 +0530</pubDate>
       
       <guid>https://thefenrislycaon.github.io/photo/test/</guid>
-      <description>Other</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Sentiment-Analysis</title>
-      <link>https://thefenrislycaon.github.io/work/sentiment-analysis/</link>
+      <title>Sentiment Analysis</title>
+      <link>https://thefenrislycaon.github.io/project/sentiment-analysis/</link>
       <pubDate>Thu, 07 Jul 2022 12:45:55 +0530</pubDate>
       
-      <guid>https://thefenrislycaon.github.io/work/sentiment-analysis/</guid>
+      <guid>https://thefenrislycaon.github.io/project/sentiment-analysis/</guid>
       <description>Introduction This project aims to classify the emotion on a person&amp;rsquo;s face into one of seven categories, using deep convolutional neural networks. The model is trained on the FER-2013 dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
 Working This implementation by default detects emotions on all faces in the webcam feed.</description>
     </item>
     
     <item>
-      <title>Test</title>
+      <title>Will Add Writings</title>
       <link>https://thefenrislycaon.github.io/note/test/</link>
       <pubDate>Thu, 07 Jul 2022 12:45:51 +0530</pubDate>
       
       <guid>https://thefenrislycaon.github.io/note/test/</guid>
-      <description>Post</description>
+      <description></description>
     </item>
     
   </channel>

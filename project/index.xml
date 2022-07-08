@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Rishabh Anand</title>
+    <link>https://thefenrislycaon.github.io/project/</link>
+    <description>Recent content in Project on Rishabh Anand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:45:55 +0530</lastBuildDate><atom:link href="https://thefenrislycaon.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BalckBoard Auto-Logger</title>
+      <link>https://thefenrislycaon.github.io/project/balckboard-auto/</link>
+      <pubDate>Fri, 08 Jul 2022 19:03:15 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/balckboard-auto/</guid>
+      <description>Intro A python based application that automatically logs in into your accounts and attends your classes on cuchd.blackboard.com website. I wrote this script STRICTLY for EDUCATIONAL PURPOSES and I am NOT RESPONSIBLE for any non-disciplinary action commited by its users, i.e., all the students of Chandigarh University (yes, ALL, not just CSE or AIT !)
+Usage So you&amp;rsquo;re done with the installation. But, how do you use it? It&amp;rsquo;s really simple actually, you run the same runME.</description>
+    </item>
+    
+    <item>
+      <title>AfterShock Predictions</title>
+      <link>https://thefenrislycaon.github.io/project/aftershock/</link>
+      <pubDate>Fri, 08 Jul 2022 18:55:39 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/aftershock/</guid>
+      <description>AfterShock Analysis of the 2018 article &amp;lsquo;Deep learning of aftershock patterns following large earthquakes&amp;rsquo; by Phoebe M. R. DeVries, Fernanda Viégas, Martin Wattenberg &amp;amp; Brendan J. Meade, published in Nature.
+Intro In a world, divided by fear, of losing your loved ones, of losing your loved belongings,of losing your life, we hope to come up with a solution that keep you and your dreams safe. Because that’s what EarthQuake’s take away&amp;hellip; Even after the major tremor, what hurts more is the AfterShocks that follow.</description>
+    </item>
+    
+    <item>
+      <title>Federated Learning with IoT</title>
+      <link>https://thefenrislycaon.github.io/project/federated-learning/</link>
+      <pubDate>Fri, 08 Jul 2022 18:53:40 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/federated-learning/</guid>
+      <description>Federated Learning On Distributed Private Health Data On Smartphones The smartphones of the people probably carry the most valueable but also private data. Since using data promisses to be one of the best ways to fight back against COVID-19, it is highly desirable to get access.
+By using a Federated Learning approach with PySyft it is possible to learn from the private data right on the smartphone, with the data never leaving the device.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://thefenrislycaon.github.io/project/sentiment-analysis/</link>
+      <pubDate>Thu, 07 Jul 2022 12:45:55 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/project/sentiment-analysis/</guid>
+      <description>Introduction This project aims to classify the emotion on a person&amp;rsquo;s face into one of seven categories, using deep convolutional neural networks. The model is trained on the FER-2013 dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
+Working This implementation by default detects emotions on all faces in the webcam feed.</description>
+    </item>
+    
+  </channel>
+</rss>
