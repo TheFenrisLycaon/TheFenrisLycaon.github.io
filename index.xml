@@ -8,6 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jul 2022 12:45:55 +0530</lastBuildDate><atom:link href="https://thefenrislycaon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Link</title>
+      <link>https://thefenrislycaon.github.io/musical/link/</link>
+      <pubDate>Wed, 31 Aug 2022 21:51:41 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/musical/link/</guid>
+      <description>I make music to escape. With more than 400 hours of lessons on youtube, I taught myself how to play guitar and the keyboard. I sing sometimes.
+Some of my music is here :
+Youtube Some of my covers are here:
+Instagram </description>
+    </item>
+    
+    <item>
+      <title>Link</title>
+      <link>https://thefenrislycaon.github.io/photo/link/</link>
+      <pubDate>Wed, 31 Aug 2022 21:48:29 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/photo/link/</guid>
+      <description>I like taking photos. I take a lot of photos infact. And I post a lot. On Instagram.
+Check it out. Leave a like. Drop your comments. Follow if you want to see more.
+Link to instagram </description>
+    </item>
+    
+    <item>
       <title>Realization</title>
       <link>https://thefenrislycaon.github.io/note/realization/</link>
       <pubDate>Wed, 31 Aug 2022 21:39:01 +0530</pubDate>
@@ -200,24 +223,6 @@ Instagram Twitter Facebook Reddit StackOverFlow Youtube Link </description>
       <description>Flappy_Bird Game made on Tkinter and PyGame (Two versions).
 The game was then automated using NEAT(Neuroevolution of Augmenting Topologies) algorithm.
 Link </description>
-    </item>
-    
-    <item>
-      <title>Will Add Music</title>
-      <link>https://thefenrislycaon.github.io/musical/test/</link>
-      <pubDate>Thu, 07 Jul 2022 12:49:19 +0530</pubDate>
-      
-      <guid>https://thefenrislycaon.github.io/musical/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Will Add Photos</title>
-      <link>https://thefenrislycaon.github.io/photo/test/</link>
-      <pubDate>Thu, 07 Jul 2022 12:46:02 +0530</pubDate>
-      
-      <guid>https://thefenrislycaon.github.io/photo/test/</guid>
-      <description></description>
     </item>
     
     <item>
