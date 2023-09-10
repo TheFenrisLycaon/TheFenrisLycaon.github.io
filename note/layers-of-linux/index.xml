@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layers of Linux on Rishabh Anand</title>
+    <link>https://thefenrislycaon.github.io/note/layers-of-linux/</link>
+    <description>Recent content in Layers of Linux on Rishabh Anand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:45:55 +0530</lastBuildDate><atom:link href="https://thefenrislycaon.github.io/note/layers-of-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art of CLI</title>
+      <link>https://thefenrislycaon.github.io/note/layers-of-linux/the-art-of-command-line/</link>
+      <pubDate>Sun, 10 Sep 2023 06:07:11 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/note/layers-of-linux/the-art-of-command-line/</guid>
+      <description>Layers of Linux is a blog on various topics realted a life I spend in the terminal.
+If you wish to know more about it, the follwoing blog is the best place to start.
+Start Here </description>
+    </item>
+    
+    <item>
+      <title>Arch Linux</title>
+      <link>https://thefenrislycaon.github.io/note/layers-of-linux/arch-linux/</link>
+      <pubDate>Sun, 10 Sep 2023 05:54:26 +0530</pubDate>
+      
+      <guid>https://thefenrislycaon.github.io/note/layers-of-linux/arch-linux/</guid>
+      <description>Arch Linux. Why is it so popular ? Let&amp;rsquo;s see the top five reasons why I think everyone should run Arch Linux.
+Read Here </description>
+    </item>
+    
+  </channel>
+</rss>

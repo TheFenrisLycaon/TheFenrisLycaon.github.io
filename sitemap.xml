@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thefenrislycaon.github.io/note/layers-of-linux/the-art-of-command-line/</loc>
+    <lastmod>2023-09-10T06:07:11+05:30</lastmod>
+  </url><url>
+    <loc>https://thefenrislycaon.github.io/note/layers-of-linux/arch-linux/</loc>
+    <lastmod>2023-09-10T05:54:26+05:30</lastmod>
+  </url><url>
     <loc>https://thefenrislycaon.github.io/musical/link/</loc>
     <lastmod>2022-08-31T21:51:41+05:30</lastmod>
   </url><url>
     <loc>https://thefenrislycaon.github.io/photo/link/</loc>
     <lastmod>2022-08-31T21:48:29+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/realization/</loc>
+    <loc>https://thefenrislycaon.github.io/note/one-shot/realization/</loc>
     <lastmod>2022-08-31T21:39:01+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/cities/</loc>
+    <loc>https://thefenrislycaon.github.io/note/one-shot/cities/</loc>
     <lastmod>2022-08-31T21:38:33+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/end/</loc>
+    <loc>https://thefenrislycaon.github.io/note/hello-friend/end/</loc>
     <lastmod>2022-08-31T21:38:14+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/hours/</loc>
+    <loc>https://thefenrislycaon.github.io/note/one-shot/hours/</loc>
     <lastmod>2022-08-31T21:37:44+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/here/</loc>
+    <loc>https://thefenrislycaon.github.io/note/hello-friend/here/</loc>
     <lastmod>2022-08-31T21:37:21+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/lies/</loc>
+    <loc>https://thefenrislycaon.github.io/note/hello-friend/lies/</loc>
     <lastmod>2022-08-31T21:36:49+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/again/</loc>
+    <loc>https://thefenrislycaon.github.io/note/hello-friend/again/</loc>
     <lastmod>2022-08-31T21:36:03+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/kawai/</loc>
+    <loc>https://thefenrislycaon.github.io/note/hello-friend/kawai/</loc>
     <lastmod>2022-08-31T21:34:52+05:30</lastmod>
   </url><url>
-    <loc>https://thefenrislycaon.github.io/note/immortal/</loc>
+    <loc>https://thefenrislycaon.github.io/note/one-shot/immortal/</loc>
     <lastmod>2022-08-31T21:11:30+05:30</lastmod>
   </url><url>
     <loc>https://thefenrislycaon.github.io/project/balckboard-auto/</loc>
@@ -65,10 +71,19 @@
     <loc>https://thefenrislycaon.github.io/work/flappy-bird/</loc>
     <lastmod>2022-07-08T18:09:46+05:30</lastmod>
   </url><url>
+    <loc>https://thefenrislycaon.github.io/note/hello-friend/</loc>
+    <lastmod>2022-07-07T12:45:55+05:30</lastmod>
+  </url><url>
+    <loc>https://thefenrislycaon.github.io/note/layers-of-linux/</loc>
+    <lastmod>2022-07-07T12:45:55+05:30</lastmod>
+  </url><url>
     <loc>https://thefenrislycaon.github.io/musical/</loc>
     <lastmod>2022-07-07T12:45:55+05:30</lastmod>
   </url><url>
     <loc>https://thefenrislycaon.github.io/note/</loc>
+    <lastmod>2022-07-07T12:45:55+05:30</lastmod>
+  </url><url>
+    <loc>https://thefenrislycaon.github.io/note/one-shot/</loc>
     <lastmod>2022-07-07T12:45:55+05:30</lastmod>
   </url><url>
     <loc>https://thefenrislycaon.github.io/photo/</loc>
